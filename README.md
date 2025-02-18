@@ -16,8 +16,8 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** Chrome Extension (HTML, CSS, JavaScript)
-- **Backend:** Spring Boot (Java/Kotlin)
-- **AI Model:** Gemini AI (via API integration)
+- **Backend:** Spring Boot (Java)
+- **AI Model:** Gemini AI Flash 1.5 (via API integration)
 
 ---
 
