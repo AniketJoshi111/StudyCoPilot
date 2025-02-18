@@ -1,6 +1,7 @@
 # StudyCoPilot
 
 **StudyCoPilot** is a Chrome extension designed to make academic research faster and smarter! With the power of Gemini AI and a Spring Boot backend, this tool allows users to use AI features like Summarization on the go leading to fast researching tasks.
+
 ---
 
 ## 🚀 Features
